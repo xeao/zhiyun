@@ -1,0 +1,26 @@
+.am-disabled>span:hover{color:#999;background-color:#fff;border-color:#ddd;cursor:not-allowed;pointer-events:none}.am-pagination .am-pagination-prev{float:left}
+.am-pagination .am-pagination-prev a{border-radius:0}
+.am-pagination .am-pagination-next{float:right}
+.am-pagination .am-pagination-next a{border-radius:0}
+.am-pagination-centered{text-align:center}
+.am-pagination-right{text-align:right}[class*=am-animation-]{-webkit-animation-duration:.5s;animation-duration:.5s;-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out;-webkit-animation-fill-mode:both;animation-fill-mode:both}@media screen{.cssanimations [data-am-scrollspy*=animation]{opacity:0}}
+
+.am-pagination{position:relative}
+.am-pagination-default{margin-left:10px;margin-right:10px;font-size:1.6rem}
+.am-pagination-default .am-pagination-next,
+.am-pagination-default 
+.am-pagination-prev{float:none}
+.am-pagination-select{margin-left:10px;margin-right:10px;font-size:1.6rem}
+.am-pagination-select>li>a{line-height:36px;background-color:#eee;padding:0 15px;border:0;color:#555}
+.am-pagination-select .am-pagination-select{position:absolute;top:0;left:50%;margin-left:-35px;width:70px;height:36px;text-align:center;border-radius:0}
+.am-pagination-select .am-pagination-select select{display:block;border:0;line-height:36px;width:70px;height:36px;border-radius:0;color:#555;background-color:#eee;-webkit-appearance:none;-moz-appearance:none;appearance:none;padding-left:18px}.am-paragraph p{margin:10px 0}.am-paragraph img{max-width:100%}.am-paragraph h1,.am-paragraph h2,.am-paragraph h3,.am-paragraph h4,.am-paragraph h5,.am-paragraph h6{color:#222}.am-paragraph table{max-width:none}
+.am-paragraph-table-container{overflow:hidden;background:#eee;max-width:none}
+.am-paragraph-table-container table{width:100%;max-width:none}
+.am-paragraph-table-container table th{background:#bce5fb;height:40px;border:1px solid #999;text-align:center}
+.am-paragraph-table-container table td{border:1px solid #999;text-align:center;vertical-align:middle;background:#fff}
+.am-paragraph-table-container table td p{text-indent:0;font-size:1.4rem}
+.am-paragraph-table-container table td a{font-size:1.4rem}
+.am-paragraph-default{margin:0 10px;color:#333;background-color:transparent}
+.am-paragraph-default p{font-size:1.4rem}
+.am-paragraph-default img{max-width:98%;display:block;margin:5px auto;border:1px solid #eee;padding:2px}
+.am-paragraph-default a{color:#0e90d2}.am-slider-a1{-webkit-box-shadow:0 1px 4px rgba(0,0,0,.2);box-shadow:0 1px 4px rgba(0,0,0,.2)}

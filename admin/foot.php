@@ -1,0 +1,1 @@
+<div id="footer">Copyright &copy; <span style="color:#FF5200">资源QQ群：</span><span style="color:#0065FF">921019449</span> , Powered by <a href="http://zhiyunzz.simplesite.com" target="_blank">zhiyunzz.simplesite.com</a></div>
